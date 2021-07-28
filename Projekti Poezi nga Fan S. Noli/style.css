@@ -1,0 +1,44 @@
+.body {
+	background-color: rgb(185, 53, 53);
+}
+
+.margin {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 10mm;
+}
+
+.koka {
+	font-size: 10mm;
+	font-weight: bold;
+	font-family: serif;
+}
+
+.teksti {
+	background-color: rgb(113, 216, 219);
+	font-family: serif;
+}
+
+.titulli {
+	font-weight: bold;
+	font-size: 7mm;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+.paranteze {
+	font-style: italic;
+}
+
+.bg-footer {
+    background-color: rgb(27, 23, 23);
+    color: white;
+	font-family: serif;
+}
+
+.kemba {
+	font-family: serif;
+	font-size: 5mm;
+	padding-bottom: 5mm;
+	padding-top: 5mm;
+}
